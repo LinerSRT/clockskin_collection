@@ -30,4 +30,4 @@ This repo contains all clockskin collection from **weitetech** servers.
 **http://www.weitetech.cn/clockskin/clockskin.xml**
 
 ## Browse ClockSkins
-dump link
+[View Skins](https://github.com/LinerSRT/clockskin_collection/blob/master/browse_clockskin.md "View Skins")
